@@ -38,10 +38,7 @@ public class Solution {
             }
             
         }
-    /*    System.out.println(maxsum);
-        System.out.println(maxr);
-        */
-        if(maxsum>0)
+         if(maxsum>0)
         {
         ans.add(maxl+1);
         ans.add(maxr+1);
